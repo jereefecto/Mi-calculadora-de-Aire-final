@@ -1,0 +1,21 @@
+{
+  "name": "Calculadora de Aire Acondicionado",
+  "short_name": "Calculadora AC",
+  "description": "Calcula los BTU y el tipo de sistema de AC para tu espacio.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
